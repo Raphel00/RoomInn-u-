@@ -1,0 +1,1 @@
+This is a small Project which i built during learning CSS and HTML about how to built cards,develop a website that serves as a guide for any customer to lodge in a hotel better understand ther services provided with budget and types of accomodations available per day and how to plan your stay better in an hotel with this webpage.
